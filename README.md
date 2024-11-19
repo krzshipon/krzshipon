@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shipon
-- 🧑🏻‍💻 A forward-thinking developer offering more than four years of experience building, integrating, testing, and supporting mobile applications and tablet devices. 
-- 🧩 I’m currently working as a senior software engineer.
+- 🧑🏻‍💻 A forward-thinking Principal Software Engineer with 5+ years of expertise in architecting scalable systems, mobile development across Android, iOS, and Flutter and leading high-performing teams.
+- 🧑🏻‍💻 Known for delivering robust, high-quality solutions while driving project success through effective leadership and technical excellence.
+- 🧩 I’m currently working as a Principal Software Engineer.
 - 📫 krz.shipon1@gmail.com
 
 <!---
